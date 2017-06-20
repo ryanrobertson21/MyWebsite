@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Wed%20Jun%2014%2021_16_23%202017/FanGraphs%20Leaderboard.csv" added="2017-06-14T21:17:18Z" modified="2017-06-14T21:17:18Z" visited="2017-06-14T21:17:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T21:17:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Wed%20Jun%2014%2021_17_28%202017/FanGraphs%20Leaderboard.csv" added="2017-06-14T21:18:17Z" modified="2017-06-14T21:18:17Z" visited="2017-06-14T21:18:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T21:18:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Wed%20Jun%2014%2022_18_05%202017/FanGraphs%20Leaderboard.csv" added="2017-06-14T22:20:32Z" modified="2017-06-14T22:20:32Z" visited="2017-06-14T22:20:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-14T22:20:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2007_17_18%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T07:17:53Z" modified="2017-06-15T07:17:53Z" visited="2017-06-15T07:17:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T07:17:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2007_46_53%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T07:47:16Z" modified="2017-06-15T07:47:16Z" visited="2017-06-15T07:47:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T07:47:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2007_47_21%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T07:49:03Z" modified="2017-06-15T07:49:03Z" visited="2017-06-15T07:49:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T07:49:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_02_20%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:02:34Z" modified="2017-06-15T08:02:34Z" visited="2017-06-15T08:02:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:02:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_02_38%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:02:54Z" modified="2017-06-15T08:02:54Z" visited="2017-06-15T08:02:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:02:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_14_04%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:14:47Z" modified="2017-06-15T08:14:47Z" visited="2017-06-15T08:14:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:14:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_29_13%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:29:32Z" modified="2017-06-15T08:29:32Z" visited="2017-06-15T08:29:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:29:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_29_36%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:29:55Z" modified="2017-06-15T08:29:55Z" visited="2017-06-15T08:29:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:29:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_30_26%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:30:43Z" modified="2017-06-15T08:30:43Z" visited="2017-06-15T08:30:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:30:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_30_48%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:31:06Z" modified="2017-06-15T08:31:06Z" visited="2017-06-15T08:31:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:31:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_32_44%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:32:57Z" modified="2017-06-15T08:32:57Z" visited="2017-06-15T08:32:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:32:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_38_16%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:38:34Z" modified="2017-06-15T08:38:34Z" visited="2017-06-15T08:38:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:38:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_38_38%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:38:57Z" modified="2017-06-15T08:38:57Z" visited="2017-06-15T08:38:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:38:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_44_34%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:44:53Z" modified="2017-06-15T08:44:53Z" visited="2017-06-15T08:44:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:44:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_44_57%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:45:15Z" modified="2017-06-15T08:45:15Z" visited="2017-06-15T08:45:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:45:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_50_42%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:51:02Z" modified="2017-06-15T08:51:02Z" visited="2017-06-15T08:51:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:51:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_51_58%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:52:19Z" modified="2017-06-15T08:52:19Z" visited="2017-06-15T08:52:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:52:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_52_23%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:52:39Z" modified="2017-06-15T08:52:39Z" visited="2017-06-15T08:52:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:52:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_53_57%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:54:20Z" modified="2017-06-15T08:54:20Z" visited="2017-06-15T08:54:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:54:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_54_24%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:54:40Z" modified="2017-06-15T08:54:40Z" visited="2017-06-15T08:54:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:54:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_56_56%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:57:19Z" modified="2017-06-15T08:57:19Z" visited="2017-06-15T08:57:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:57:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_57_22%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:57:41Z" modified="2017-06-15T08:57:41Z" visited="2017-06-15T08:57:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:57:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_58_14%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:58:55Z" modified="2017-06-15T08:58:55Z" visited="2017-06-15T08:58:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:58:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2008_58_59%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T08:59:18Z" modified="2017-06-15T08:59:18Z" visited="2017-06-15T08:59:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T08:59:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2008_59_49%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T09:00:12Z" modified="2017-06-15T09:00:12Z" visited="2017-06-15T09:00:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T09:00:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2009_00_15%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T09:00:35Z" modified="2017-06-15T09:00:35Z" visited="2017-06-15T09:00:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T09:00:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2009_01_55%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T09:02:22Z" modified="2017-06-15T09:02:22Z" visited="2017-06-15T09:02:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T09:02:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2009_02_26%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T09:02:42Z" modified="2017-06-15T09:02:42Z" visited="2017-06-15T09:02:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T09:02:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2019_11_51%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T19:12:17Z" modified="2017-06-15T19:12:17Z" visited="2017-06-15T19:12:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T19:12:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2019_12_21%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T19:12:39Z" modified="2017-06-15T19:12:39Z" visited="2017-06-15T19:12:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T19:12:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2022_06_14%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:06:30Z" modified="2017-06-15T22:06:30Z" visited="2017-06-15T22:06:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:06:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2022_29_48%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:31:38Z" modified="2017-06-15T22:31:38Z" visited="2017-06-15T22:31:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:31:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2022_31_43%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:32:03Z" modified="2017-06-15T22:32:03Z" visited="2017-06-15T22:32:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:32:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2022_34_17%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:34:34Z" modified="2017-06-15T22:34:34Z" visited="2017-06-15T22:34:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:34:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2022_35_47%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:36:24Z" modified="2017-06-15T22:36:24Z" visited="2017-06-15T22:36:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:36:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-Thu%20Jun%2015%2022_37_33%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:39:18Z" modified="2017-06-15T22:39:18Z" visited="2017-06-15T22:39:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-Thu%20Jun%2015%2022_39_23%202017/FanGraphs%20Leaderboard.csv" added="2017-06-15T22:41:12Z" modified="2017-06-15T22:41:12Z" visited="2017-06-15T22:41:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-15T22:41:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-2017-06-17/FanGraphs%20Leaderboard.csv" added="2017-06-17T02:18:09Z" modified="2017-06-17T02:18:09Z" visited="2017-06-17T02:18:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-17T02:18:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-2017-06-17/FanGraphs%20Leaderboard.csv" added="2017-06-17T02:20:06Z" modified="2017-06-17T02:20:06Z" visited="2017-06-17T02:20:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-17T02:20:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-2017-06-18/FanGraphs%20Leaderboard.csv" added="2017-06-18T09:36:11Z" modified="2017-06-18T09:36:11Z" visited="2017-06-18T09:36:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-18T09:36:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-2017-06-18/FanGraphs%20Leaderboard.csv" added="2017-06-18T09:36:35Z" modified="2017-06-18T09:36:35Z" visited="2017-06-18T09:36:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-18T09:36:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-2017-06-19/FanGraphs%20Leaderboard.csv" added="2017-06-19T00:05:32Z" modified="2017-06-19T22:47:48Z" visited="2017-06-19T00:05:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-19T22:47:48Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-2017-06-19/FanGraphs%20Leaderboard.csv" added="2017-06-19T00:07:29Z" modified="2017-06-19T22:49:38Z" visited="2017-06-19T00:07:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-19T22:49:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-xx/FanGraphs%20Leaderboard.csv" added="2017-06-19T22:28:16Z" modified="2017-06-19T22:43:20Z" visited="2017-06-19T22:28:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-19T22:43:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-xx/FanGraphs%20Leaderboard.csv" added="2017-06-19T22:30:07Z" modified="2017-06-19T22:43:39Z" visited="2017-06-19T22:30:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-19T22:43:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/battersPP-2017-06-20/FanGraphs%20Leaderboard.csv" added="2017-06-20T00:09:27Z" modified="2017-06-20T00:09:27Z" visited="2017-06-20T00:09:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-20T00:09:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/django/django_project/baseballproject/fangraphsData/pitchersPP-2017-06-20/FanGraphs%20Leaderboard.csv" added="2017-06-20T00:11:22Z" modified="2017-06-20T00:11:22Z" visited="2017-06-20T00:11:23.160620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-06-20T00:11:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

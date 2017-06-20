@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+{% extends "personal/header.html" %}
+{% block content %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fantasy Baseball Lineup Uploader</title>
+    </head>
+    
+    <body>
+        <h1>Click the 'Browse' button and upload a FanDuel MLB contest to find the optimal lineup</h1>
+        <!-- Upload form -->
+        <form action="{% url "list" %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+
+            <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+
+            <p>
+                {{ form.docfile.errors }}
+                {{ form.docfile }}
+            </p>
+
+            <p><input type="submit" value="Submit"/></p>
+        </form>
+    
+        <h2>Instructions:</h2>
+        <ul>
+            <li>Go to Fanduel.com (Wait until at least 9AM EST on game day before running this optimizer, otherwise projected points may not be available!)</li>
+            <li>Find an MLB contest. This optimizer is for the default MLB contests (all non 'mixup' contests)</li>
+            <li>Enter the contest</li>
+            <li>Click 'Download players list'</li>
+            <li>Save the csv file to your computer</li>
+            <li>Come back to this website</li>
+            <li>Click the 'Browse' button, and select the csv file</li>
+            <li>Click the 'Submit' button, and it will output the optimal lineup for this contest 
+            (using projected points from fangraphs.com)</li>
+            <li>BE PATIENT! Sometimes it only takes a matter of seconds to find the optimal lineup,
+            other times it may take a few minutes</li>
+        </ul>
+        <h3>FanDuel Account for Testing</h3>
+        <ul>
+            <li>Email = freetaylor3621@yahoo.com</li>
+            <li>Username = ForTesting</li>
+            <li>Password = testing1</li>
+    </body>
+
+
+</html>
+{% endblock %}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+{% extends "personal/header.html" %}
+{% block content %}
+<html>
+<head>
+  <title>Optimal Lineup Results</title>
+  <style>
+  table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+  th, td {
+      padding: 5px;
+}
+</style>
+</head>
+<h1>Here is the optimal lineup</h1>
+<h3>Out of {{ numLineups }} possible lineups</h3>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+</style>
+<table style="width:50%">
+  <tr>
+    <th>Position</th>
+    <th>Name</th>
+    <th>Projected Points</th>
+    <th>Cost</th>
+    <th>Team</th>
+  </tr>
+  {% for player in finalLineup %}
+    <tr>
+      {% for info in player %}
+          <td>{{ info }}</td>
+      {% endfor %}
+    </tr> 
+  {% endfor %}  
+</table>
+  
+<h2>Lineup Projected Points: {{ pp }}</h2>
+<h2>Lineup Cost: {{ capUsed }}</h2>
+
+
+
+<a href="{% url 'list' %}">Submit another contest?</a>
+</html>
+{% endblock %}
