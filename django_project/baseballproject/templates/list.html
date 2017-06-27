@@ -8,11 +8,24 @@
     </head>
     
     <body>
-        <h1>Click the 'Browse' button and upload a FanDuel MLB contest to find the optimal lineup</h1>
+        {% load static %}
+        <img src="{% static "baseballproject/Marcus_Thames_Tigers_2007.jpeg" %}" alt="My image1"/>
+        
+        <h1>Choose the site you're playing on, upload the lineup csv, and submit!</h1>
         <!-- Upload form -->
+    
         <form action="{% url "list" %}" method="post" enctype="multipart/form-data">
             {% csrf_token %}
+
             <p>{{ form.non_field_errors }}</p>
+            
+            <p>{{ form.contest.label_tag }}</p>
+            
+            <p>
+                {{ form.contest.errors }}
+                {{ form.contest }}  
+            </p>
+            
 
             <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
 
@@ -20,29 +33,37 @@
                 {{ form.docfile.errors }}
                 {{ form.docfile }}
             </p>
-
+    
             <p><input type="submit" value="Submit"/></p>
         </form>
+        
     
         <h2>Instructions:</h2>
         <ul>
-            <li>Go to Fanduel.com (Wait until at least 9AM EST on game day before running this optimizer, otherwise projected points may not be available!)</li>
-            <li>Find an MLB contest. This optimizer is for the default MLB contests (all non 'mixup' contests)</li>
-            <li>Enter the contest</li>
-            <li>Click 'Download players list'</li>
+            <li>Go to fanduel.com, draftkings.com or yahoo.com/dailyfantasy (wait until at least 9AM EST before running this optimizer, otherwise projected points may not be available!)</li>
+            <li>Find an MLB contest. This optimizer is for the Standard/Classic MLB contests (no 'mixup' Fanduel contests and no 'arcade' Draftkings contests)</li>
+            <li>Enter the contest (on Yahoo click the contest name to access the csv download option)</li>
+            <li>Click 'Download players list' on Fanduel, 'Export To CSV' on Draftkings, 'Export players list' on Yahoo (pictured below, respectively)</li>
             <li>Save the csv file to your computer</li>
             <li>Come back to this website</li>
+            <li>Select the contest website you are using from the drop down menu</li>
             <li>Click the 'Browse' button, and select the csv file</li>
-            <li>Click the 'Submit' button, and it will output the optimal lineup for this contest 
-            (using projected points from fangraphs.com)</li>
+            <li>Click the 'Submit' button, and it will output the optimal lineup for your contest 
+            (using projected points from Fangraphs.com)</li>
             <li>BE PATIENT! Sometimes it only takes a matter of seconds to find the optimal lineup,
             other times it may take a few minutes</li>
         </ul>
-        <h3>FanDuel Account for Testing</h3>
+        <h3>Fanduel/Draftkings Account Credentials for Testing</h3>
         <ul>
             <li>Email = freetaylor3621@yahoo.com</li>
             <li>Username = ForTesting</li>
             <li>Password = testing1</li>
+        <p></p>
+         
+        
+           
+        {% load static %}
+        <img src="{% static "baseballproject/downloadInfo.jpg" %}" alt="My image2"/>
     </body>
 
 

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import time
-from baseballOptimizer import grabData
+from optimizerFunctions import grabData
 
 batFolderPath = '/home/django/django_project/baseballproject/fangraphsData/battersPP-'
 pitFolderPath = '/home/django/django_project/baseballproject/fangraphsData/pitchersPP-'
